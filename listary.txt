@@ -1,2 +1,3 @@
 Version:
 1.6
+https://github.com/Lawngquawng/Lq_vender_nor/releases/download/Lq_vender_nor/LQ_Vender.exe
